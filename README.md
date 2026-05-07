@@ -10,3 +10,10 @@ Code - Build - Test - Deploy - Run
 - Learned Git Basics
 - Created repository
 - Understood version control 
+
+## problems 
+- there are soo many problems like family
+- related to my health
+- confused between video
+- confuse between internship and job
+- 
