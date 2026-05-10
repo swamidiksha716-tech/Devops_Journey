@@ -16,4 +16,6 @@ Code - Build - Test - Deploy - Run
 - related to my health
 - confused between video
 - confuse between internship and job
-- 
+
+
+## i am working on aproject in which i have to make a tiny app whith the help of javascript from last two days i do try & still failed but next i will try again and i'll give u uptate when something happen.
